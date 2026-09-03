@@ -4,10 +4,6 @@ I am a software engineer and founder of Laicos, based in Osaka, Japan.
 
 I build web applications and developer tools with Ruby on Rails and Elixir. I enjoy working in small teams, designing maintainable systems, and turning real-world problems into simple software.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hulk-higakijin&show_icons=true&hide_border=true" alt="Haruku Maniwa's GitHub stats" />
-</p>
-
 ## 🧰 Open Source
 
 I maintain small, focused libraries for Phoenix and Ecto:
@@ -16,6 +12,10 @@ I maintain small, focused libraries for Phoenix and Ecto:
 - [url_validator](https://github.com/hulk-higakijin/url_validator) — An Ecto changeset validator for HTTP and HTTPS URLs.
 - [time_validator](https://github.com/hulk-higakijin/time_validator) — Ecto changeset validations for values in the past or future.
 - [jp_prefecture](https://github.com/hulk-higakijin/jp_prefecture) — An Elixir library for searching Japanese prefecture data.
+
+## 🖥️ Editor
+
+- [nvim](https://github.com/hulk-higakijin/nvim) — My Neovim configuration and development environment.
 
 ## 🛠️ Technologies
 
