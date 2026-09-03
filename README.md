@@ -13,6 +13,7 @@ I build and maintain open-source projects across web development and developer t
 - [time_validator](https://github.com/hulk-higakijin/time_validator) — Ecto changeset validations for values in the past or future.
 - [jp_prefecture](https://github.com/hulk-higakijin/jp_prefecture) — An Elixir library for searching Japanese prefecture data.
 - [github_time_converter](https://github.com/hulk-higakijin/github_time_converter) — A Chrome extension that converts GitHub timestamps into absolute time.
+- [google-safesearch-enforcer](https://github.com/hulk-higakijin/google-safesearch-enforcer) — A Chromium extension that forces SafeSearch on Google Search.
 
 ## 🖥️ Editor
 
