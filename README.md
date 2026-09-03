@@ -17,6 +17,10 @@ I maintain small, focused libraries for Phoenix and Ecto:
 
 - [nvim](https://github.com/hulk-higakijin/nvim) — My Neovim configuration and development environment.
 
+## 📺 YouTube
+
+- [HulkinPublic](https://www.youtube.com/@HulkinPublic) — Videos about software development, technology, and building products.
+
 ## 🛠️ Technologies
 
 Ruby on Rails · Elixir · Phoenix · Ecto · TypeScript · React · Vue · Svelte · Rust · Node.js · Flutter · PostgreSQL · GCP · Heroku · Railway
