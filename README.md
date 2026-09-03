@@ -29,8 +29,6 @@ Ruby on Rails · Elixir · Phoenix · Ecto · TypeScript · React · Vue · Svel
 
 I started programming as a student and later worked through long-term internships before becoming an independent engineer. After moving to Osaka, I founded Laicos.
 
-For more about my experience, see my [Wantedly profile](https://www.wantedly.com/id/maniwaharuku).
-
 ## 📫 Contact
 
 For collaboration, software development, or open-source projects:
