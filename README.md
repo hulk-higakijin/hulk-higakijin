@@ -6,7 +6,7 @@ I build web applications and developer tools with Ruby on Rails and Elixir. I en
 
 ## 🧰 Open Source
 
-I maintain small, focused libraries for Phoenix and Ecto:
+I build and maintain open-source projects across web development and developer tooling:
 
 - [any_login](https://github.com/hulk-higakijin/any_login) — A development-only account switcher for Phoenix applications.
 - [url_validator](https://github.com/hulk-higakijin/url_validator) — An Ecto changeset validator for HTTP and HTTPS URLs.
